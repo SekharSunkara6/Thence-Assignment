@@ -56,9 +56,5 @@ yarn build
 This command will create a build directory with a production build of your app.
 
 
-## Technologies Used
 
-- **React.js** : A JavaScript library for building user interfaces.
-- **Tailwind CSS** : A utility-first CSS framework for rapidly building custom designs.
-- **BrowserRouter** : Used for enabling dynamic routing in a web application.
 
